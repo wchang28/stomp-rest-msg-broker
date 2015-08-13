@@ -1,0 +1,1 @@
+module.exports = require('./lib/stomp-rest-msg-broker.js');
